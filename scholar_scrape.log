@@ -1,0 +1,18 @@
+['Joseph Pasquale', 'Stefan Savage', 'Aaron Schulman', 'Alex C. Snoeren', 'Geoffrey M Voelker', 'Yiying Zhang', 'Yuanyuan Zhou']
+Joseph Pasquale 4379
+Stefan Savage 46027
+Aaron Schulman 1324
+Alex C. Snoeren 12662
+Geoffrey M Voelker 27822
+Yiying Zhang 1227
+Yuanyuan Zhou 16586
+110027
+Unknown Authors:  []
+Accepted Authors:  [(Joseph Pasquale,4379), (Stefan Savage,46027), (Aaron Schulman,1324), (Alex C. Snoeren,12662), (Geoffrey M Voelker,27822), (Yiying Zhang,1227), (Yuanyuan Zhou,16586)]
+NEW LOG ENTRY  2021-05-30 13:55:38.884817:110027:[(Joseph Pasquale,4379), (Stefan Savage,46027), (Aaron Schulman,1324), (Alex C. Snoeren,12662), (Geoffrey M Voelker,27822), (Yiying Zhang,1227), (Yuanyuan Zhou,16586)]
+2021-05-30 13:31:49.703521:110027:[(Joseph Pasquale,4379), (Stefan Savage,46027), (Aaron Schulman,1324), (Alex C. Snoeren,12662), (Geoffrey M Voelker,27822), (Yiying Zhang,1227), (Yuanyuan Zhou,16586)]
+2021-05-30 13:32:29.191888:110027:[(Joseph Pasquale,4379), (Stefan Savage,46027), (Aaron Schulman,1324), (Alex C. Snoeren,12662), (Geoffrey M Voelker,27822), (Yiying Zhang,1227), (Yuanyuan Zhou,16586)]
+2021-05-30 13:33:15.988341:110027:[(Joseph Pasquale,4379), (Stefan Savage,46027), (Aaron Schulman,1324), (Alex C. Snoeren,12662), (Geoffrey M Voelker,27822), (Yiying Zhang,1227), (Yuanyuan Zhou,16586)]
+2021-05-30 13:44:29.457694:110027:[(Joseph Pasquale,4379), (Stefan Savage,46027), (Aaron Schulman,1324), (Alex C. Snoeren,12662), (Geoffrey M Voelker,27822), (Yiying Zhang,1227), (Yuanyuan Zhou,16586)]
+2021-05-30 13:55:38.884817:110027:[(Joseph Pasquale,4379), (Stefan Savage,46027), (Aaron Schulman,1324), (Alex C. Snoeren,12662), (Geoffrey M Voelker,27822), (Yiying Zhang,1227), (Yuanyuan Zhou,16586)]
+[datetime.datetime(2021, 5, 30, 13, 32, 29, 191888), datetime.datetime(2021, 5, 30, 13, 33, 15, 988341), datetime.datetime(2021, 5, 30, 13, 44, 29, 457694), datetime.datetime(2021, 5, 30, 13, 55, 38, 884817)] [0, 0, 0, 0]
