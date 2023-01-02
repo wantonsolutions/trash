@@ -38,4 +38,5 @@ for name, val, nameheight in values:
     ax.plot(xval,yval, label=name,linewidth=lastwidth )
     last = val
 
+plt.tight_layout()
 plt.savefig("emp.pdf")
